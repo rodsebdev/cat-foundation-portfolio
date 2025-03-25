@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "name": "Luna",
+    "age": 2,
+    "gender": "female",
+    "breed": "Scottish Fold",
+    "adopted": false,
+    "description": {
+      "en": "Curious and calm, loves to nap in sunny spots.",
+      "es": "Curiosa y tranquila, le encanta dormir en lugares soleados.",
+      "jp": "好奇心旺盛で落ち着いた性格。日向ぼっこが大好き。"
+    },
+    "image": "https://placecats.com/399/399"
+  },
+  {
+    "id": "2",
+    "name": "Milo",
+    "age": 3,
+    "gender": "male",
+    "breed": "Siamese",
+    "adopted": true,
+    "description": {
+      "en": "Talkative and playful, always chasing shadows.",
+      "es": "Hablador y juguetón, siempre persiguiendo sombras.",
+      "jp": "おしゃべりで遊び好き。影を追いかけるのが大好き。"
+    },
+    "image": "https://placecats.com/400/400"
+  },
+  {
+    "id": "3",
+    "name": "Neko",
+    "age": 1,
+    "gender": "male",
+    "breed": "Maine Coon",
+    "adopted": false,
+    "description": {
+      "en": "Big fluffball who thinks he's a lap cat.",
+      "es": "Una bola de pelo grande que cree ser un gato faldero.",
+      "jp": "大きなもふもふで、膝の上が大好き。"
+    },
+    "image": "https://placecats.com/401/401"
+  },
+  {
+    "id": "4",
+    "name": "Cleo",
+    "age": 5,
+    "gender": "female",
+    "breed": "Bengal",
+    "adopted": false,
+    "description": {
+      "en": "Loves climbing and watching birds from the window.",
+      "es": "Le encanta trepar y observar aves desde la ventana.",
+      "jp": "窓から鳥を見るのが大好き。"
+    },
+    "image": "https://placecats.com/402/402"
+  },
+  {
+    "id": "5",
+    "name": "Leo",
+    "age": 6,
+    "gender": "male",
+    "breed": "British Shorthair",
+    "adopted": false,
+    "description": {
+      "en": "Chonky boy with a heart of gold.",
+      "es": "Gordito con un corazón de oro.",
+      "jp": "ぽっちゃりで優しい性格。"
+    },
+    "image": "https://placecats.com/403/403"
+  },
+  {
+    "id": "6",
+    "name": "Mimi",
+    "age": 1,
+    "gender": "female",
+    "breed": "Persian",
+    "adopted": true,
+    "description": {
+      "en": "Elegant princess who enjoys quiet afternoons.",
+      "es": "Princesa elegante que disfruta de las tardes tranquilas.",
+      "jp": "優雅なお姫様で静かな午後が好き。"
+    },
+    "image": "https://placecats.com/404/404"
+  },
+  {
+    "id": "7",
+    "name": "Taro",
+    "age": 2,
+    "gender": "male",
+    "breed": "Bombay",
+    "adopted": false,
+    "description": {
+      "en": "Midnight black ninja of the house.",
+      "es": "Ninja negro de medianoche en la casa.",
+      "jp": "真夜中の黒い忍者。"
+    },
+    "image": "https://placecats.com/405/405"
+  },
+  {
+    "id": "8",
+    "name": "Copito",
+    "age": 3,
+    "gender": "male",
+    "breed": "Turkish Angora",
+    "adopted": false,
+    "description": {
+      "en": "White as snow and twice as soft.",
+      "es": "Blanco como la nieve y el doble de suave.",
+      "jp": "雪のように白く、とても柔らかい。"
+    },
+    "image": "https://placecats.com/406/406"
+  },
+  {
+    "id": "9",
+    "name": "Yuki",
+    "age": 4,
+    "gender": "female",
+    "breed": "Ragdoll",
+    "adopted": true,
+    "description": {
+      "en": "Sweet and gentle, loves cuddles and warm laps.",
+      "es": "Dulce y suave, le encantan los mimos y las piernas cálidas.",
+      "jp": "優しくて甘えん坊。ひざの上が大好き。"
+    },
+    "image": "https://placecats.com/407/407"
+  },
+  {
+    "id": "10",
+    "name": "Pumpkin",
+    "age": 5,
+    "gender": "female",
+    "breed": "American Shorthair",
+    "adopted": false,
+    "description": {
+      "en": "Always ready for fall and cozy blankets.",
+      "es": "Siempre lista para el otoño y mantas acogedoras.",
+      "jp": "秋と毛布が大好き。"
+    },
+    "image": "https://placecats.com/408/408"
+  },
+  {
+    "id": "11",
+    "name": "Kuro",
+    "age": 6,
+    "gender": "male",
+    "breed": "Oriental Shorthair",
+    "adopted": false,
+    "description": {
+      "en": "Lean, sleek, and full of mischief.",
+      "es": "Ágil, elegante y lleno de travesuras.",
+      "jp": "スリムでいたずら好き。"
+    },
+    "image": "https://placecats.com/409/409"
+  },
+  {
+    "id": "12",
+    "name": "Zoe",
+    "age": 1,
+    "gender": "female",
+    "breed": "Russian Blue",
+    "adopted": true,
+    "description": {
+      "en": "Shy beauty who warms up to soft voices.",
+      "es": "Belleza tímida que se siente cómoda con voces suaves.",
+      "jp": "控えめだけど優しい声が好き。"
+    },
+    "image": "https://placecats.com/410/410"
+  },
+  {
+    "id": "13",
+    "name": "Tama",
+    "age": 2,
+    "gender": "female",
+    "breed": "Norwegian Forest",
+    "adopted": false,
+    "description": {
+      "en": "Queen of the bookshelf jungle.",
+      "es": "Reina de la jungla de la estantería.",
+      "jp": "本棚のジャングルの女王。"
+    },
+    "image": "https://placecats.com/411/411"
+  },
+  {
+    "id": "14",
+    "name": "Oliver",
+    "age": 3,
+    "gender": "male",
+    "breed": "Chartreux",
+    "adopted": false,
+    "description": {
+      "en": "Quiet but follows you like a shadow.",
+      "es": "Tranquilo pero te sigue como una sombra.",
+      "jp": "静かだけど、いつもそばにいる。"
+    },
+    "image": "https://placecats.com/412/412"
+  },
+  {
+    "id": "15",
+    "name": "Chai",
+    "age": 4,
+    "gender": "female",
+    "breed": "Abyssinian",
+    "adopted": true,
+    "description": {
+      "en": "Loves warmth and curling up in mugs of laundry.",
+      "es": "Ama el calor y dormir sobre la ropa limpia.",
+      "jp": "温かい場所と洗濯物の中が好き。"
+    },
+    "image": "https://placecats.com/413/413"
+  },
+  {
+    "id": "16",
+    "name": "Loki",
+    "age": 5,
+    "gender": "male",
+    "breed": "Savannah",
+    "adopted": false,
+    "description": {
+      "en": "Chaotic neutral. Hides your socks on purpose.",
+      "es": "Caótico. Esconde tus calcetines a propósito.",
+      "jp": "いたずら好きで靴下を隠す。"
+    },
+    "image": "https://placecats.com/414/414"
+  },
+  {
+    "id": "17",
+    "name": "Mocha",
+    "age": 6,
+    "gender": "female",
+    "breed": "Siberian",
+    "adopted": false,
+    "description": {
+      "en": "Soft purrs and sweeter than coffee.",
+      "es": "Ronronea suavemente y es más dulce que el café.",
+      "jp": "コーヒーよりも甘いゴロゴロ。"
+    },
+    "image": "https://placecats.com/415/415"
+  },
+  {
+    "id": "18",
+    "name": "Kiki",
+    "age": 1,
+    "gender": "female",
+    "breed": "Balinese",
+    "adopted": true,
+    "description": {
+      "en": "Watches birds all day from her tower.",
+      "es": "Pasa el día observando aves desde su torre.",
+      "jp": "一日中タワーから鳥を観察。"
+    },
+    "image": "https://placecats.com/416/416"
+  },
+  {
+    "id": "19",
+    "name": "Binx",
+    "age": 2,
+    "gender": "male",
+    "breed": "Manx",
+    "adopted": false,
+    "description": {
+      "en": "No tail, no problem. Expert jumper.",
+      "es": "Sin cola, sin problema. Saltador experto.",
+      "jp": "しっぽがなくてもジャンプは得意。"
+    },
+    "image": "https://placecats.com/417/417"
+  },
+  {
+    "id": "20",
+    "name": "Sora",
+    "age": 3,
+    "gender": "male",
+    "breed": "Tonkinese",
+    "adopted": false,
+    "description": {
+      "en": "Sky-colored eyes and a cheerful heart.",
+      "es": "Ojos color cielo y un corazón alegre.",
+      "jp": "空色の瞳と明るい性格。"
+    },
+    "image": "https://placecats.com/418/418"
+  },
+  {
+    "id": "21",
+    "name": "Tofu",
+    "age": 4,
+    "gender": "female",
+    "breed": "Himalayan",
+    "adopted": true,
+    "description": {
+      "en": "Soft and fluffy like her name suggests.",
+      "es": "Suave y esponjosa, tal como su nombre lo indica.",
+      "jp": "名前通り、ふわふわで柔らかい。"
+    },
+    "image": "https://placecats.com/419/419"
+  },
+  {
+    "id": "22",
+    "name": "Nana",
+    "age": 5,
+    "gender": "female",
+    "breed": "Japanese Bobtail",
+    "adopted": false,
+    "description": {
+      "en": "Chirpy little dancer with a heart of gold.",
+      "es": "Pequeña bailarina con un gran corazón.",
+      "jp": "小さなダンサーで優しい心の持ち主。"
+    },
+    "image": "https://placecats.com/420/420"
+  },
+  {
+    "id": "23",
+    "name": "Tora",
+    "age": 6,
+    "gender": "male",
+    "breed": "Ocicat",
+    "adopted": false,
+    "description": {
+      "en": "Wild look, tame heart.",
+      "es": "Apariencia salvaje, corazón tierno.",
+      "jp": "見た目は野生的、中身は優しい。"
+    },
+    "image": "https://placecats.com/421/421"
+  },
+  {
+    "id": "24",
+    "name": "Ash",
+    "age": 1,
+    "gender": "male",
+    "breed": "LaPerm",
+    "adopted": true,
+    "description": {
+      "en": "Curly fur and constant zoomies.",
+      "es": "Pelo rizado y carreras sin parar.",
+      "jp": "くるくる毛と止まらないズーム。"
+    },
+    "image": "https://placecats.com/422/422"
+  },
+  {
+    "id": "25",
+    "name": "Mochi",
+    "age": 2,
+    "gender": "female",
+    "breed": "Exotic Shorthair",
+    "adopted": false,
+    "description": {
+      "en": "Round, sweet, and always sleepy.",
+      "es": "Redonda, dulce y siempre con sueño.",
+      "jp": "まんまるでいつも眠そう。"
+    },
+    "image": "https://placecats.com/423/423"
+  }
+]
